@@ -2,6 +2,11 @@
 
 I built this report in Power BI to look at helpdesk tickets, resolution times and satisfaction scores. I wanted to bring the main figures together and make it easier to compare departments and ticket priorities.
 
+
+## Dashboard preview
+
+![Dashboard screenshot](dashboard-preview.png)
+
 ## What is in the report
 
 - Cards for ticket count, average satisfaction score and average hours to resolve.
